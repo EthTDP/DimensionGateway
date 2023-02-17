@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dimensiongateway:block/gateway_block"
+    },
+    "facing=east": {
+      "model": "dimensiongateway:block/gateway_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dimensiongateway:block/gateway_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dimensiongateway:block/gateway_block",
+      "y": 270
+    }
+  }
+}
