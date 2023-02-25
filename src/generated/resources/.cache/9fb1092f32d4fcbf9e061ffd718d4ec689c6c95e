@@ -1,0 +1,7 @@
+// 1.19.3	2023-02-25T10:23:24.0266265	Recipes
+d42560ebdcfe941b70efb31a1786c14f0104e202 data/dimensiongateway/advancements/recipes/building_blocks/trigger.json
+b57de5782ca1afd321e23aae7952a69ca9e21cbe data/dimensiongateway/advancements/recipes/misc/trigger_block.json
+8828aa4167c5f7ba9dbbaf772e5879c44e134419 data/dimensiongateway/advancements/recipes/misc/trigger_from_smelting_raw_trigger.json
+dfca60fc8fd8585eb054b1dff83d6e3e675e3e54 data/dimensiongateway/recipes/trigger.json
+b21c2834568b8dbbe196227bf8058d83ddf570ea data/dimensiongateway/recipes/trigger_block.json
+5c3d8f39b35ac05ff47426862f7a0e4db7449c41 data/dimensiongateway/recipes/trigger_from_smelting_raw_trigger.json

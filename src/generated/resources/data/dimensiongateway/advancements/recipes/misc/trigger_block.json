@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dimensiongateway:trigger_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_trigger": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dimensiongateway:trigger"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_trigger",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dimensiongateway:trigger_block"
+    ]
+  }
+}

@@ -1,6 +1,18 @@
 {
-  "item.dimensiongateway.example_item": "Example Item",
-  "block.dimensiongateway.example_block": "Example Block",
-  "block.dimensiongateway.gateway_block": "Gateway Block",
-  "creativemodetab.dimensiongateway_tab": "Dimension Gateway Tab"
+  "item.dimensiongateway.example_item" : "Example Item",
+  "item.dimensiongateway.trigger" : "Trigger",
+  "item.dimensiongateway.raw_trigger" : "Raw Trigger",
+  "item.dimensiongateway.raw_majestic" : "Raw Mejestic",
+  "item.dimensiongateway.raw_rare_trigger" : "Raw Rare Trigger",
+  "item.dimensiongateway.majestic" : "Majestic",
+  "item.dimensiongateway.rare_trigger" : "Rare Trigger",
+
+  "block.dimensiongateway.gateway_block" : "Gateway Block",
+  "block.dimensiongateway.trigger_block" : "Trigger Block",
+  "block.dimensiongateway.trigger_ore" : "Trigger Ore",
+  "block.dimensiongateway.majestic_block" : "Majestic Block",
+  "block.dimensiongateway.rare_trigger_ore" : "Rare Trigger Ore",
+  "block.dimensiongateway.majestic_ore" : "Majestic Ore",
+
+  "creativemodetab.dimensiongateway_tab" : "Dimension Gateway Mod"
 }

@@ -1,13 +1,13 @@
 {
-  "type": "dimensiongateway:trigger_type",
+  "type": "dimensiongateway:triggerdim_type",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:overworld",
+    "settings": "dimensiongateway:triggerdim_noise",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "biomes": [
         {
-          "biome": "minecraft:plains",
+          "biome": "dimensiongateway:biome_majestic",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -19,9 +19,9 @@
           }
         },
         {
-          "biome": "minecraft:desert",
+          "biome": "dimensiongateway:biome_trigger",
           "parameters": {
-            "temperature": 0,
+            "temperature": 0.15,
             "humidity": 0,
             "continentalness": 0,
             "erosion": 0,

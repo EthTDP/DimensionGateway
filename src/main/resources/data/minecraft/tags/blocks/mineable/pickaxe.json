@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "dimensiongateway:trigger_block",
+    "dimensiongateway:gateway_block",
+    "dimensiongateway:trigger_ore"
+  ]
+}

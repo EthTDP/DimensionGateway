@@ -1,6 +1,7 @@
 package net.ethtdp.dimensiongateway.items;
 
 import net.ethtdp.dimensiongateway.DimensionGateway;
+import net.ethtdp.dimensiongateway.blocks.ModBlocks;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
@@ -17,7 +18,7 @@ public class ModTabs {
     @SubscribeEvent
     public static void registerCreativeModeTabs(CreativeModeTabEvent.Register event) {
         DimensionTab = event.registerCreativeModeTab(new ResourceLocation(DimensionGateway.MODID, "dimensiongateway_tab"),
-                builder -> builder.icon(() -> new ItemStack(ModItems.EXAMPLE_ITEM.get()))
+                builder -> builder.icon(() -> new ItemStack(ModBlocks.GATEWAY_BLOCK.get()))
                         .title(Component.translatable("creativemodetab.dimensiongateway_tab")));
     }
 }

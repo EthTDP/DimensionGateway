@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dimensiongateway:block/majestic_block"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dimensiongateway:biome_trigger",
+  "features": "dimensiongateway:triggerore_placed",
+  "step": "underground_ores"
+}

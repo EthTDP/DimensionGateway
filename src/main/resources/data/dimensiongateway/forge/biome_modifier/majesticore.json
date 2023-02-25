@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dimensiongateway:biome_majestic",
+  "features": "dimensiongateway:majesticore_placed",
+  "step": "underground_ores"
+}

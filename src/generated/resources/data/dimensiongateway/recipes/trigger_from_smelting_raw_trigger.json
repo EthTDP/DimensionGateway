@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "trigger",
+  "ingredient": {
+    "item": "dimensiongateway:raw_trigger"
+  },
+  "result": "dimensiongateway:trigger"
+}

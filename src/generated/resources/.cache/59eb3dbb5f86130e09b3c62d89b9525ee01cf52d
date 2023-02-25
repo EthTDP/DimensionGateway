@@ -1,0 +1,7 @@
+// 1.19.3	2023-02-25T13:27:27.0796946	Loot Tables
+552e38c56866a9982b8cc2ea6ab1a8b70110bb75 data/dimensiongateway/loot_tables/blocks/gateway_block.json
+a964a8871732a32ef3014e30522db83d6c3d75b0 data/dimensiongateway/loot_tables/blocks/majestic_block.json
+acd60b587e476366f843c4fca4fb40f3e3d018fd data/dimensiongateway/loot_tables/blocks/majestic_ore.json
+8160ee716061e0c73eaae2150417a3b8ee0c0be6 data/dimensiongateway/loot_tables/blocks/rare_trigger_ore.json
+0c0d7ea01c42b50ad244f53946cfd1977ee298c4 data/dimensiongateway/loot_tables/blocks/trigger_block.json
+173247001334f32122efed6f785c1bb7e6f1317b data/dimensiongateway/loot_tables/blocks/trigger_ore.json
